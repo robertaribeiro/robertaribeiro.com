@@ -4,5 +4,5 @@
 layout: redirected
 sitemap: false
 permalink: /
-redirect_to: https://medium.com 
+redirect_to: https://medium.com/roberta-ribeiro
 ---
